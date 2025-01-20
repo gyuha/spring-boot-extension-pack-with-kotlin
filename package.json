@@ -2,7 +2,7 @@
   "name": "spring-boot-extension-pack-with-kotlin",
   "displayName": "Spring boot extension pack with kotlin",
   "description": "This extension pack includes essential VS Code extensions for Spring Boot and Kotlin development.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/gyuha/spring-boot-extension-pack-with-kotlin",
   "icon": "images/icon.png",
   "publisher": "nicegyuha",
@@ -26,14 +26,10 @@
   ],
   "keywords": [
     "extention-pack",
-    "Extension Packs",
-    "Sprinboot",
-    "Sprinboot MVC",
-    "Spring MVC",
     "java",
     "kotlin",
-    "spring boot",
-    "spring boot mvc",
-    "spring mvc"
+    "spring-boot",
+    "spring-boot-mvc",
+    "spring-mvc"
   ]
 }
