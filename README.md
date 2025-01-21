@@ -18,13 +18,11 @@ This extension pack includes the following extensions:
 ### Code Quality & Testing
 
 * `SonarSource.sonarlint-vscode` - Code Quality Analysis
-* `ryanluker.vscode-coverage-gutters` - Code Coverage Visualization
 * `shengchen.vscode-checkstyle` - Java Code Style Checker
 
 ### Java Development Tools
 
 * `vscjava.vscode-lombok` - Lombok Support
-* `Pleiades.java-extension-pack-jdk` - JDK Related Tools
 
 ### Configuration File Support
 
